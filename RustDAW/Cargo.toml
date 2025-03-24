@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "audio_engine", 
+    "gui",
+    "main",
+]
